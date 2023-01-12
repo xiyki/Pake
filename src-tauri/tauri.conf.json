@@ -1,12 +1,12 @@
 {
   "package": {
-    "productName": "WeRead",
-    "version": "1.0.0"
+    "productName": "GKDWorld",
+    "version": "0.1.2"
   },
   "tauri": {
     "windows": [
       {
-        "url": "https://weread.qq.com/",
+        "url": "https://gkdworld.com/",
         "transparent": true,
         "fullscreen": false,
         "width": 1200,
