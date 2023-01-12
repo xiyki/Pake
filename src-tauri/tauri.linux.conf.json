@@ -2,10 +2,10 @@
   "tauri": {
     "bundle": {
       "icon": [
-        "png/weread_256.ico",
-        "png/weread_512.png"
+        "png/gkdworld_256.ico",
+        "png/gkdworld_512.png"
       ],
-      "identifier": "com.tw93.weread",
+      "identifier": "com.xiyki.gkdworld",
       "active": true,
       "category": "DeveloperTool",
       "copyright": "",
@@ -23,7 +23,7 @@
           "gnome-video-effects-extra"
         ],
         "files": {
-          "/usr/share/applications/com-tw93-weread.desktop": "assets/com-tw93-weread.desktop"
+          "/usr/share/applications/com-tw93-weread.desktop": "assets/com-xiyki-gkdworld.desktop"
         }
       },
       "externalBin": [],
