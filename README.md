@@ -1,3 +1,11 @@
+# 资源统筹局及花火学园桌面端
+
+**注意⚠️：软件由[XiYKi](https://dzyx.uk/)一人生成与发布，与官方无任何关系！！！**
+
+以下是原开源项目简介
+
+------------------
+
 <h4 align="right"><strong>中文</strong> | <a href="https://github.com/tw93/Pake/blob/master/README_EN.md">English</a></h4>
 <p align="center">
     <img src=https://gw.alipayobjects.com/zos/k/fa/logo-modified.png width=138/>
