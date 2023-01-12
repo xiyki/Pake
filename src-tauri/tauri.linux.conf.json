@@ -2,10 +2,10 @@
   "tauri": {
     "bundle": {
       "icon": [
-        "png/gkdworld_256.ico",
-        "png/gkdworld_512.png"
+        "png/weread_256.ico",
+        "png/weread_512.png"
       ],
-      "identifier": "com.xiyki.gkdworld",
+      "identifier": "com.tw93.weread",
       "active": true,
       "category": "DeveloperTool",
       "copyright": "",
