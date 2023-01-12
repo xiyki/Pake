@@ -2,16 +2,16 @@
   "tauri": {
     "bundle": {
       "icon": [
-        "png/weread_256.ico",
-        "png/weread_32.ico"
+        "png/gkdworld_256.ico",
+        "png/gkdworld_32.ico"
       ],
-      "identifier": "com.tw93.weread",
+      "identifier": "com.xiyki.gkdworld",
       "active": true,
       "category": "DeveloperTool",
       "copyright": "",
       "externalBin": [],
       "longDescription": "",
-      "resources": ["png/weread_32.ico"],
+      "resources": ["png/gkdworld_32.ico"],
       "shortDescription": "",
       "targets": ["msi"],
       "windows": {
