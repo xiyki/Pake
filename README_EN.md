@@ -1,3 +1,11 @@
+# GKDWorld and say-huahuo desktop software
+
+**Notice⚠️:These desktop software is generated and released by [XiYKi](https://dzyx.uk/) alone, and has nothing to do with the official website! ! !**
+
+The following is an introduction to the original open source project
+
+------------------
+
 <h4 align="right"><a href="https://github.com/tw93/Pake">中文</a> | <strong>English</strong></h4>
 <p align="center">
     <img src=https://gw.alipayobjects.com/zos/k/fa/logo-modified.png width=138/>
